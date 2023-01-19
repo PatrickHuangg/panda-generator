@@ -11,7 +11,8 @@ section{
     background-position: center;
     background-repeat: no-repeat;
     background-color: greenyellow;
-    object-fit: fill;
+    background-size: contain;
+    /* object-fit: fill; */
    
 }
 
